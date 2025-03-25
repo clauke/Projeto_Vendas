@@ -9,10 +9,15 @@ Projeto de manipulação de dados usando a biblioteca Pandas do Python e visuali
 II. Escopo
 
 . Importação de arquivo .csv
+
 . Criação de tabelas a partir do dataset utilizando o Excel
+
 . Análise exploratória e transformação de dados utizando Pandas
+
 . Criação de modelo entidade-relacionamento no Power Architect
+
 . Criação do banco de dados no SQL Server
+
 . Criação de dashboard utilizando o Power BI Desktop
 
 
