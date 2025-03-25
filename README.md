@@ -58,5 +58,6 @@ utilizando o dataset original, mas a prática de separar os dados em tabelas que
 caminho a seguir.
 
 VI. Arquivos do Projeto
+
 Todos os arquivos necessários para replicar este projeto estão disponíveis.
 Para abrir o dashboard é necessário instalar o Power BI Desktop e para o MER instale o Power Architect (gera o script SQL para criar o banco).
